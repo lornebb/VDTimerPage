@@ -51,8 +51,11 @@ section { overflow: hidden; }
 
 /* =Typography
 -------------------------------------------------------------- */
+
+
 a {
     text-decoration: none;
+    font-size: 100px;
 }
 
 h1, h2 { margin: 0; }
