@@ -200,6 +200,7 @@ h2 {
 .contact .icons li {
 	display: inline-block;
 	margin-right: 10px;
+    font-size: large;
 }
 
 .contact .icons li:last-of-type { margin-right: 0px; }
